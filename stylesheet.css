@@ -25,6 +25,7 @@ background-color: gray;
 ul  {
 	list-style-type: none;
 	background: DarkTurquoise;
+	width: 100px;
 }
 
 
