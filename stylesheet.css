@@ -31,11 +31,11 @@ ul  {
 
 li a {
 	display: block; 
+	text-align: center;
 }
 
 li a:hover {
 	background: gray;
-	display: block; 
 }
 
 
