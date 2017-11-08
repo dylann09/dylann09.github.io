@@ -23,15 +23,16 @@ background-color: gray;
 }
 
 ul  {
-	list-style-type: none;
+	list-style-type: none; /*Remove bullets*/
 	background: Aquamarine;
-	width: 100px;
-	padding: 0;
+	width: 100px; /*Reduce the size and width*/
+	padding: 0; /*Removes left padding stuff from the list*/
 }
 
 li a {
-	display: block; 
+	display: block; /*Make the link use the whole width*/
 	text-align: center;
+	text-decoration: none;
 }
 
 li a:hover {
