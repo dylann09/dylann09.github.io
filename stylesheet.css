@@ -33,6 +33,8 @@ li a {
 	display: block; /*Make the link use the whole width*/
 	text-align: center;
 	text-decoration: none;
+	color: DarkMagenta;
+	font-family: ComicSans;
 }
 
 li a:hover {
