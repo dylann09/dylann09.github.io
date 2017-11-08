@@ -28,6 +28,11 @@ ul  {
 	width: 100px;
 }
 
+li a:hover (
+   background: gray;
+
+)
+
 
 
 
