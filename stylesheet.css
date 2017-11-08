@@ -28,10 +28,14 @@ ul  {
 	width: 100px;
 }
 
-li a:hover (
-   background: gray;
+li a {
+	display: block; 
+}
 
-)
+li a:hover {
+	background: gray;
+	display: block; 
+}
 
 
 
