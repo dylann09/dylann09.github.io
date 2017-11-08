@@ -22,6 +22,10 @@ p {
 background-color: gray;
 }
 
+body{
+	margin: 0;
+	
+}
 
 ul  {
 	list-style-type: none; /*Remove bullets*/
@@ -43,7 +47,4 @@ li a {
 li a:hover {
 	background: DarkTurquoise;
 }
-
-
-
 
