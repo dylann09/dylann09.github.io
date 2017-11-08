@@ -34,7 +34,8 @@ li a {
 	text-align: center;
 	text-decoration: none;
 	color: DarkMagenta;
-	font-family: ComicSans;
+	font-family: Arial;
+	padding: 10px;
 }
 
 li a:hover {
