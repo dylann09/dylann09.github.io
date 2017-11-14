@@ -29,8 +29,8 @@ ul  {
 	list-style-type: none; /*Remove bullets*/
 	background: Aquamarine;
 	width: 100px; /*Reduce the size and width*/
-	padding: 0; /*Removes left padding stuff from the list*/
-	margin: 20; /*Removes white space from top*/
+	padding: 100; /*Removes left padding stuff from the list*/
+	margin: 200; /*Removes white space from top*/
 }
 
 li a {
