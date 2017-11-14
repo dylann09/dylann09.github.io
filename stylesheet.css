@@ -1,18 +1,14 @@
 h1 {
-	color: DeepSkyBlue;
+	color: RoyalBlue;
 	text-align: center;
 }
 
 p {
-	color: blue;
+	color: DarkMagenta;
 	text-align: left;
 }
 
 h2 {
-	color: DarkMagenta;
-	text-align: center;
-}
-h3 {
 	color: DarkMagenta;
 	text-align: center;
 }
