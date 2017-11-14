@@ -30,7 +30,7 @@ ul  {
 	background: Aquamarine;
 	width: 100px; /*Reduce the size and width*/
 	padding: 0; /*Removes left padding stuff from the list*/
-	margin: 0; /*Removes white space from top*/
+	margin: 20; /*Removes white space from top*/
 }
 
 li a {
